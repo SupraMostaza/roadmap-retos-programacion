@@ -1,7 +1,7 @@
 {
     "challenges_total": 4,
     "languages_total": 30,
-    "files_total": 1029,
+    "files_total": 1031,
     "users_total": 386,
     "challenges_ranking": [
         {
@@ -12,12 +12,12 @@
         {
             "order": 2,
             "name": "01 - OPERADORES Y ESTRUCTURAS DE CONTROL",
-            "count": 278
+            "count": 279
         },
         {
             "order": 3,
             "name": "02 - FUNCIONES Y ALCANCE",
-            "count": 194
+            "count": 195
         },
         {
             "order": 4,
@@ -29,38 +29,38 @@
         {
             "order": 1,
             "name": "python",
-            "count": 382,
-            "percentage": 37.12
+            "count": 384,
+            "percentage": 37.25
         },
         {
             "order": 2,
             "name": "javascript",
             "count": 206,
-            "percentage": 20.02
+            "percentage": 19.98
         },
         {
             "order": 3,
             "name": "java",
             "count": 112,
-            "percentage": 10.88
+            "percentage": 10.86
         },
         {
             "order": 4,
             "name": "typescript",
             "count": 60,
-            "percentage": 5.83
+            "percentage": 5.82
         },
         {
             "order": 5,
             "name": "c#",
             "count": 36,
-            "percentage": 3.5
+            "percentage": 3.49
         },
         {
             "order": 6,
             "name": "kotlin",
             "count": 36,
-            "percentage": 3.5
+            "percentage": 3.49
         },
         {
             "order": 7,
@@ -72,7 +72,7 @@
             "order": 8,
             "name": "php",
             "count": 23,
-            "percentage": 2.24
+            "percentage": 2.23
         },
         {
             "order": 9,
@@ -126,13 +126,13 @@
             "order": 17,
             "name": "arduino",
             "count": 5,
-            "percentage": 0.49
+            "percentage": 0.48
         },
         {
             "order": 18,
             "name": "scala",
             "count": 5,
-            "percentage": 0.49
+            "percentage": 0.48
         },
         {
             "order": 19,
@@ -1002,937 +1002,937 @@
         },
         {
             "order": 133,
-            "name": "caverobrandon",
+            "name": "mstaz4",
             "count": 3,
             "languages": 1
         },
         {
             "order": 134,
-            "name": "yharyarias",
+            "name": "caverobrandon",
             "count": 3,
             "languages": 1
         },
         {
             "order": 135,
-            "name": "zakkdrte",
+            "name": "yharyarias",
             "count": 3,
             "languages": 1
         },
         {
             "order": 136,
-            "name": "jamerrq",
+            "name": "zakkdrte",
             "count": 3,
             "languages": 1
         },
         {
             "order": 137,
-            "name": "vid92",
+            "name": "jamerrq",
             "count": 3,
             "languages": 1
         },
         {
             "order": 138,
-            "name": "julianbuitragocharry-dev",
+            "name": "vid92",
             "count": 3,
             "languages": 1
         },
         {
             "order": 139,
-            "name": "dariorfm",
+            "name": "julianbuitragocharry-dev",
             "count": 3,
             "languages": 1
         },
         {
             "order": 140,
-            "name": "matitc",
+            "name": "dariorfm",
             "count": 3,
             "languages": 1
         },
         {
             "order": 141,
-            "name": "emedevelopa",
+            "name": "matitc",
             "count": 3,
             "languages": 1
         },
         {
             "order": 142,
-            "name": "agusbelp",
+            "name": "emedevelopa",
             "count": 3,
             "languages": 1
         },
         {
             "order": 143,
-            "name": "emaenriquez",
+            "name": "agusbelp",
             "count": 3,
             "languages": 1
         },
         {
             "order": 144,
-            "name": "wolffcode",
+            "name": "emaenriquez",
             "count": 3,
             "languages": 1
         },
         {
             "order": 145,
-            "name": "seandsun",
+            "name": "wolffcode",
             "count": 3,
             "languages": 1
         },
         {
             "order": 146,
-            "name": "arbenisacosta",
+            "name": "seandsun",
             "count": 3,
             "languages": 1
         },
         {
             "order": 147,
-            "name": "artickun",
+            "name": "arbenisacosta",
             "count": 3,
             "languages": 1
         },
         {
             "order": 148,
-            "name": "hectoriglesias",
+            "name": "artickun",
             "count": 3,
             "languages": 1
         },
         {
             "order": 149,
-            "name": "omegatroy",
+            "name": "hectoriglesias",
             "count": 3,
             "languages": 1
         },
         {
             "order": 150,
-            "name": "gonzadev28",
+            "name": "omegatroy",
             "count": 3,
             "languages": 1
         },
         {
             "order": 151,
-            "name": "robmxz",
+            "name": "gonzadev28",
             "count": 3,
             "languages": 1
         },
         {
             "order": 152,
-            "name": "lauracastrillonmp",
+            "name": "robmxz",
             "count": 3,
             "languages": 1
         },
         {
             "order": 153,
-            "name": "d4-n1",
+            "name": "lauracastrillonmp",
             "count": 3,
             "languages": 1
         },
         {
             "order": 154,
-            "name": "christian-jfr",
+            "name": "d4-n1",
             "count": 3,
             "languages": 1
         },
         {
             "order": 155,
-            "name": "r4kso",
+            "name": "christian-jfr",
             "count": 3,
             "languages": 1
         },
         {
             "order": 156,
-            "name": "asaelz",
+            "name": "r4kso",
             "count": 3,
             "languages": 1
         },
         {
             "order": 157,
-            "name": "gliadev",
+            "name": "asaelz",
             "count": 3,
             "languages": 1
         },
         {
             "order": 158,
-            "name": "rocallejas",
+            "name": "gliadev",
             "count": 3,
             "languages": 1
         },
         {
             "order": 159,
-            "name": "guido2288",
+            "name": "rocallejas",
             "count": 3,
             "languages": 1
         },
         {
             "order": 160,
-            "name": "sitnestic",
+            "name": "guido2288",
             "count": 3,
             "languages": 1
         },
         {
             "order": 161,
-            "name": "marinaortells",
+            "name": "sitnestic",
             "count": 3,
             "languages": 1
         },
         {
             "order": 162,
-            "name": "traver79",
+            "name": "marinaortells",
             "count": 3,
             "languages": 1
         },
         {
             "order": 163,
-            "name": "westwbn",
+            "name": "traver79",
             "count": 3,
             "languages": 1
         },
         {
             "order": 164,
-            "name": "blfuentes",
+            "name": "westwbn",
             "count": 3,
             "languages": 1
         },
         {
             "order": 165,
-            "name": "jerrysantana",
+            "name": "blfuentes",
             "count": 3,
             "languages": 1
         },
         {
             "order": 166,
-            "name": "gustavogomez19",
+            "name": "jerrysantana",
             "count": 3,
             "languages": 1
         },
         {
             "order": 167,
-            "name": "blasbarragan",
+            "name": "gustavogomez19",
             "count": 3,
             "languages": 1
         },
         {
             "order": 168,
-            "name": "amadorquispe",
+            "name": "blasbarragan",
             "count": 3,
             "languages": 1
         },
         {
             "order": 169,
-            "name": "oixild",
+            "name": "amadorquispe",
             "count": 3,
             "languages": 1
         },
         {
             "order": 170,
-            "name": "xurxogz",
+            "name": "oixild",
             "count": 3,
             "languages": 1
         },
         {
             "order": 171,
-            "name": "asjordi",
+            "name": "xurxogz",
             "count": 3,
             "languages": 1
         },
         {
             "order": 172,
+            "name": "asjordi",
+            "count": 3,
+            "languages": 1
+        },
+        {
+            "order": 173,
             "name": "jlcareglio",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 173,
+            "order": 174,
             "name": "lemito66",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 174,
+            "order": 175,
             "name": "berentolkien",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 175,
+            "order": 176,
             "name": "carresoft",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 176,
+            "order": 177,
             "name": "chuanmi",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 177,
+            "order": 178,
             "name": "tecfer",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 178,
+            "order": 179,
             "name": "raul-progr",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 179,
+            "order": 180,
             "name": "lilberick",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 180,
+            "order": 181,
             "name": "ismaelmatiz",
             "count": 2,
             "languages": 2
         },
         {
-            "order": 181,
+            "order": 182,
             "name": "jesuses1312",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 182,
+            "order": 183,
             "name": "waldid32",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 183,
+            "order": 184,
             "name": "fefestuve",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 184,
+            "order": 185,
             "name": "reanthonyh",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 185,
+            "order": 186,
             "name": "coshiloco",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 186,
+            "order": 187,
             "name": "marcose-ferretoe",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 187,
+            "order": 188,
             "name": "troynebula",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 188,
+            "order": 189,
             "name": "e-techgod",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 189,
+            "order": 190,
             "name": "alejandrovelasquezr",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 190,
+            "order": 191,
             "name": "gmigues",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 191,
+            "order": 192,
             "name": "alberba",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 192,
+            "order": 193,
             "name": "csaraugusto2",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 193,
+            "order": 194,
             "name": "pakomor",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 194,
+            "order": 195,
             "name": "lauradiazm29",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 195,
+            "order": 196,
             "name": "cipollalucas",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 196,
+            "order": 197,
             "name": "elder202",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 197,
+            "order": 198,
             "name": "k-90",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 198,
+            "order": 199,
             "name": "zalazarmartin",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 199,
+            "order": 200,
             "name": "bertolini-victor",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 200,
+            "order": 201,
             "name": "ramxv",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 201,
+            "order": 202,
             "name": "carlosmarte23",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 202,
+            "order": 203,
             "name": "chrisdev00",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 203,
+            "order": 204,
             "name": "ziellucio01",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 204,
+            "order": 205,
             "name": "evilpotato04",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 205,
+            "order": 206,
             "name": "jose-luis-lanza",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 206,
+            "order": 207,
             "name": "clmiranda",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 207,
+            "order": 208,
             "name": "eriickm",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 208,
+            "order": 209,
             "name": "davstudy",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 209,
+            "order": 210,
             "name": "yoezequiel",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 210,
+            "order": 211,
             "name": "vicgallego",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 211,
+            "order": 212,
             "name": "thegera4",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 212,
+            "order": 213,
             "name": "diegokarabin",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 213,
+            "order": 214,
             "name": "rolo27s",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 214,
+            "order": 215,
             "name": "murquisdev",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 215,
+            "order": 216,
             "name": "lmedina96",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 216,
+            "order": 217,
             "name": "nathaliamf",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 217,
+            "order": 218,
             "name": "jesusantonioeescamilla",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 218,
+            "order": 219,
             "name": "farthaz",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 219,
+            "order": 220,
             "name": "aleoe01",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 220,
+            "order": 221,
             "name": "cpcarlosprieto",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 221,
+            "order": 222,
             "name": "popmaquin",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 222,
+            "order": 223,
             "name": "peibolstrike",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 223,
+            "order": 224,
             "name": "lorenamesa",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 224,
+            "order": 225,
             "name": "cristiansystem",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 225,
+            "order": 226,
             "name": "juaruibr",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 226,
+            "order": 227,
             "name": "saracorraless",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 227,
+            "order": 228,
             "name": "alextc35",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 228,
+            "order": 229,
             "name": "isidrojng",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 229,
+            "order": 230,
             "name": "hersac",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 230,
+            "order": 231,
             "name": "yowcloud",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 231,
+            "order": 232,
             "name": "arhl2023",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 232,
+            "order": 233,
             "name": "peeanoot",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 233,
+            "order": 234,
             "name": "aserranot",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 234,
+            "order": 235,
             "name": "luciarf",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 235,
+            "order": 236,
             "name": "dmauricio4",
             "count": 2,
             "languages": 1
         },
         {
-            "order": 236,
+            "order": 237,
             "name": "bryanalzate007",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 237,
+            "order": 238,
             "name": "emaerniquez",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 238,
+            "order": 239,
             "name": "frannmv",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 239,
+            "order": 240,
             "name": "juancamilofvx",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 240,
+            "order": 241,
             "name": "rusian69",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 241,
+            "order": 242,
             "name": "vickalc",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 242,
+            "order": 243,
             "name": "sve-nnn",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 243,
+            "order": 244,
             "name": "emiliordev",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 244,
+            "order": 245,
             "name": "orzefox",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 245,
+            "order": 246,
             "name": "righelch",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 246,
+            "order": 247,
             "name": "angeloro",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 247,
+            "order": 248,
             "name": "nicoloboo02",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 248,
+            "order": 249,
             "name": "jancalos",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 249,
+            "order": 250,
             "name": "is2095",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 250,
+            "order": 251,
             "name": "gizelads",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 251,
+            "order": 252,
             "name": "seigigim",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 252,
+            "order": 253,
             "name": "lucc4sz",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 253,
+            "order": 254,
             "name": "mxtrar23",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 254,
+            "order": 255,
             "name": "omarroman29",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 255,
+            "order": 256,
             "name": "sergio-strazzacappa",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 256,
+            "order": 257,
             "name": "paluzz",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 257,
+            "order": 258,
             "name": "vinyoles",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 258,
+            "order": 259,
             "name": "arathhh8",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 259,
+            "order": 260,
             "name": "allanoscoding",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 260,
+            "order": 261,
             "name": "franciscokarriere",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 261,
+            "order": 262,
             "name": "vmarialuzm",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 262,
+            "order": 263,
             "name": "g4nd4lf",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 263,
+            "order": 264,
             "name": "judithernandez",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 264,
+            "order": 265,
             "name": "juanalbornoz32",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 265,
+            "order": 266,
             "name": "davidgramiro",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 266,
+            "order": 267,
             "name": "dakkaj",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 267,
+            "order": 268,
             "name": "jalonso76",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 268,
+            "order": 269,
             "name": "fergz1988",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 269,
+            "order": 270,
             "name": "vickalck",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 270,
+            "order": 271,
             "name": "cisneros2404",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 271,
+            "order": 272,
             "name": "adcarret",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 272,
+            "order": 273,
             "name": "salas89",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 273,
+            "order": 274,
             "name": "luceldasilva",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 274,
+            "order": 275,
             "name": "xalejandrow",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 275,
+            "order": 276,
             "name": "sbngl",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 276,
+            "order": 277,
             "name": "charly024",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 277,
+            "order": 278,
             "name": "restevean",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 278,
+            "order": 279,
             "name": "90dread",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 279,
+            "order": 280,
             "name": "sherkla12e",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 280,
+            "order": 281,
             "name": "johao23",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 281,
+            "order": 282,
             "name": "amitchellg",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 282,
+            "order": 283,
             "name": "yamiyugi25",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 283,
+            "order": 284,
             "name": "demegorash",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 284,
+            "order": 285,
             "name": "gmedinat911",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 285,
+            "order": 286,
             "name": "mjordanaam",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 286,
+            "order": 287,
             "name": "artdugarte",
             "count": 1,
             "languages": 1
         },
         {
-            "order": 287,
-            "name": "sarismejiasanchez",
-            "count": 1,
-            "languages": 1
-        },
-        {
             "order": 288,
-            "name": "mstaz4",
+            "name": "sarismejiasanchez",
             "count": 1,
             "languages": 1
         },
